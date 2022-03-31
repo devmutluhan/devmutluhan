@@ -1,9 +1,9 @@
 👋 Merhaba, ben Mutluhan CANDAŞ
 
-Kendini geliştirmeyi seven bir junior developerım. 
+Kendini geliştirmeyi seven bir yazılım geliştiricisiyim. 
 
 Aşağıdaki gibi birçok yazılım elemetlerini kullanabiliyorum.
-- C# , .Net Core
+- C# , .Net Core, Mvc
 - Dapper, MSSQL
 - JavaScript
 - Html, Css
