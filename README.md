@@ -5,7 +5,8 @@ Kendini geliştirmeyi seven bir yazılım geliştiricisiyim.
 Aşağıdaki gibi birçok yazılım elemetlerini kullanabiliyorum.
 - C# , .Net Core, Mvc
 - Dapper, MSSQL
-- JavaScript, vue Js
+- JavaScript, VueJs, TypeScript
+- Vuetify, Bootstrap
 - Html, Css
 - OOP, SOLID
 - Katmanlı Mimari
